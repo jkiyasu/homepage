@@ -11,7 +11,7 @@ icon:
 
 <h3>__What I want to get out of this club:__</h3>
 I joined this club for the opportunity to gain more technical skills while also
-contributing to the journey of an innovative idea.
+contributing to the journey of an innovative idea. 
 
 
 <h3>__Why I’m interested in entrepreneurship:__</h3>
